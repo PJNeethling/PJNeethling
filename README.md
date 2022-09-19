@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjneethling&label=Profile%20views&color=d80e0e&style=flat-square" alt="pjneethling" /> </p>
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+- 👨‍💻 All of my projects are available [here](https://pjneethling.github.io/)
 
 - 💬 Ask me about **C#, SQL or anything**
 
