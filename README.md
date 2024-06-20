@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PJ Neethling</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm PJ Neethling</h1>
 <h3 align="center">A passionate .Net developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjneethling&label=Profile%20views&color=d80e0e&style=flat-square" alt="pjneethling" /> </p>
